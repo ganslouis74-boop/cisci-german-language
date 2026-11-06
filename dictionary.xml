@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phonedirectory version="1.0">
+  <dictionary>
+    <phrase name="Missed Calls" text="Anrufe in Abwesenheit"/>
+    <phrase name="Received Calls" text="Angenommene Anrufe"/>
+    <phrase name="Placed Calls" text="Gewählte Nummern"/>
+    <phrase name="Personal Directory" text="Telefonbuch"/>
+    <phrase name="Configuration" text="Konfiguration"/>
+    <phrase name="Settings" text="Einstellungen"/>
+    <phrase name="User Options" text="Optionen"/>
+    <phrase name="Status" text="Status"/>
+    <phrase name="Select" text="Auswählen"/>
+    <phrase name="Back" text="Zurück"/>
+    <phrase name="Cancel" text="Abbrechen"/>
+    <phrase name="Submit" text="Bestätigen"/>
+    <phrase name="Redial" text="Wahlwiederholung"/>
+    <phrase name="Hold" text="Halten"/>
+    <phrase name="Transfer" text="Übergabe"/>
+    <phrase name="End Call" text="Auflegen"/>
+  </dictionary>
+</phonedirectory>
